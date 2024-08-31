@@ -1,6 +1,4 @@
-# MTech-Project
-
-This Thesis work is based on Prediction of Financial Stock price prediction using Deep learning techniques
+**Prediction of Financial Stock price prediction using Deep learning techniques**
 
 ## Overview
 
@@ -27,5 +25,3 @@ Since the stock prices are not standardized so the errors are not in range 0-1
 [![Screenshot-2022-09-13-at-9-55-44-PM.png](https://i.postimg.cc/2yH9tj62/Screenshot-2022-09-13-at-9-55-44-PM.png)](https://postimg.cc/8f6bJSL6)
 
 
-
-## For more details check out the thesis report and code
